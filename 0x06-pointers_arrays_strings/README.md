@@ -1,1 +1,13 @@
-new readme
+1). 0-strcat.c
+2). 1-strncat.c
+2). 2-strncpy.c
+4). 3-strcmp.c
+5). 4-rev_array.c
+6). 5-string_toupper.c
+7). 6-cap_string.c
+8). 7-leet.c
+9). 100-rot13.c
+10). 101-print_number.c
+11). 102-magic.c
+12). 103-infinite_add.c
+13). 104-print_buffer.c
